@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="Training table" max_length="40" name="x_70399_training_a_training_table" type="collection"/>
+</database>
